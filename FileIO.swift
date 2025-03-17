@@ -139,4 +139,3 @@ do {
     // Display an error message
     print("Unable to read from the input file.")
 }
-
